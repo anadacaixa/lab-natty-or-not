@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Hello, hello. Ana da CAIXA chegando por aqui. Baseada no trabalho de Venilton da DIO, que se inspirou na hype _"Natty or Not"_ do fisiculturismo. Fiz o Lab da DIO que convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -19,23 +19,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Título do Projeto Uma canção indie rock feita in my room ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Conheci uma plataforma que cria músicas a partir de pequenos inputs. No meu caso, respondi perguntas do tipo "para quem", "o que aconteceu que te fez querer criar uma canção" e "qual o momento marcante do evento". Achei sensacional o resultado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A IA generativa utilizada foi a plataforma https://suno.com/song
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No fórum, vi que uma colega criou uma canção do gênero heavy metal, um de meus favoritos. Sou apaixonada por música e decide navegar pela paltaforma. Respondi algumas simples perguntas e lá estava uma canção original, comovente, no estilo indie rock. Foi como se meu quarto em Brasília se tornasse a Escócia, just for a moment...
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma música que simboliza um momento especial, num estilo que eu gosto e no idioma que eu prefiro ouvir.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ainda que tenha sido com IA, sinto que usei muito de minha natural inteligência para produzir o que eu queria. Nesse sentido, entendo que houve uma linda soma de inteligências.E essa co-criação gera vida!
 ```
 
 ### Exemplos e Insigths
