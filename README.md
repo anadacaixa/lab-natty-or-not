@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Hello, hello. Ana da CAIXA chegando por aqui. Baseada no trabalho de Venilton da DIO, que se inspirou na hype _"Natty or Not"_ do fisiculturismo. Fiz o Lab da DIO que convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Hello, hello. Ana da CAIXA chegando por aqui. Baseada no trabalho de Venilton da DIO, que se inspirou na hype _"Natty or Not"_ do fisiculturismo, fiz o Lab da DIO que convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
